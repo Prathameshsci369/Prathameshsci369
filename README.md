@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Prathameshsci369
 - 👀 I’m interested in Web Development and cyber security as pentester
 - 🌱 I’m currently learning  B.E Computer Science and Engineering
-- 💞️ I’m looking to collaborate on  my currently ongoing project name are sampurnscan
+- 💞️ I’m looking to collaborate on  my currently ongoing project name are Multiverse Insights
 - 📫 You  reach me  via mail prathameshsci963@gmail.com
 - 😄 Pronouns: Prathamesh
 - ⚡ Fun fact: keep coding..... 
